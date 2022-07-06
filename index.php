@@ -138,22 +138,3 @@ foreach($orderlist as $order) {
     
    ?>
    </table>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
